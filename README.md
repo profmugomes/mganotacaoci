@@ -2,6 +2,10 @@
 
 Desenvolvi esse sistema de anotação básico ao vivo no YouTube, apenas para mostrar como estudar framework nos dias atuais.
 
+## Informações da Live
+
+ - Live Gravada no YouTube: https://youtube.com/live/W1hcIn02ps0
+
 ## Tecnologias Utilizadas
 
 - Apache2 (Servidor Web)
